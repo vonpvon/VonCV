@@ -1,0 +1,59 @@
+body {
+    background-color: #D2E9E9;
+}
+
+hr {
+    border-top: 1px dashed #000000;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+
+}
+
+img {
+    height: 140px;
+    width: 140px;
+
+}
+
+h3,
+h1 {
+    color: #0B666A;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+
+    padding: 5px;
+}
+
+.class-year{
+    text-align: right;
+}
+
+.date {
+    font-size: 18px;
+    font-weight: bold;
+    vertical-align: top;
+}
+.location{
+    text-align: right;
+}
+
+.school {
+    font-weight: 550;
+}
+
+.str-font {
+    font-weight: 550;
+    font-size: 16px;
+    vertical-align: top;
+}
+
+.year {
+    text-align: left;
+    width: 100px;
+}
